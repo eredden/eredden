@@ -1,4 +1,4 @@
-<h2 align="left">Hello 👋! My name is Evan and I'm a hobbyist programmer from the East Coast!</h2>
+<h2 align="center">Hello 👋! My name is Evan and I'm a hobbyist programmer from the East Coast!</h2>
 
 ###
 
