@@ -14,6 +14,6 @@ of **["He that will not work, shall not eat."](https://www.goodreads.com/book/sh
 Unlike the monks of centuries ago, the secular monk works in solitude from a handed-down desk in his tomb.
 The tools of his labor are his machine and mind. His yield is the satisfaction disseminated through two
 monitors and an unimportant number which increments by one thousand seven hundred and thirty six every two
-weeks. The secular monk is monastic because he unknowingly rejects the pleasantries of direct human
+weeks. The secular monk is monastic because he knowingly rejects the pleasantries of direct human
 interaction. His work, education, hobbies, family, and friends are all **[abstracted from him](https://en.wikipedia.org/wiki/Atomism_(social))** through the
 TCP/IP stack.
