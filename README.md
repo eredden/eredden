@@ -1,6 +1,4 @@
 ### Who are you?
-As all men bound by the burden of Adam do, he began his day by **[adorning himself in garments to cover his 
-naked flesh.](https://www.biblegateway.com/passage/?search=Genesis%203%3A7&version=NIV)** Had he been a more sentimental man, he would have reflected on his morals rather than 
-cleaning his molars. Perhaps twenty pages passed before the secular monk was obligated to begin his work. 
-As a Virginian, he knew well that his ancestors would have never conquered this land without the mantra 
-of **["He that will not work, shall not eat."](https://www.goodreads.com/book/show/41860)**
+I am an autodidact with a passion for formal systems and problem-solving. My background in computer science and mathematics fuels my interest in understanding and shaping the abstractions that govern our daily lives. This curiosity extends into the interdisciplinary connections between technology, philosophy, and the human experience. I explore these fields in my blog, [In Search Of A Base Case](https://eredden.hashnode.dev).
+
+I am an Application Engineer at Rightworks, responsible for update and patch management of enterprise applications in a large private-cloud environment. I architect continuous deployment pipelines and troubleshoot the complex issues that arise when hosting hundreds of tax applications for over a quarter of a million accountants. My work often involves collaborating with engineering teams from Intuit, Thomson Reuters, Wolters Kluwer, SafeSend, and other vendors to resolve critical production issues.
