@@ -1,4 +1,0 @@
-### Who are you?
-I am a voracious reader and autodidact with independent research interests in computability theory and philosophy of computation. My background in computer science and mathematics fuels my interest in understanding and shaping the abstractions that govern our daily lives. This curiosity extends into the interdisciplinary connections between technology, philosophy, and the human experience. I explore these fields in my blog, [In Search Of A Base Case](https://eredden.hashnode.dev).
-
-I am also an Application Engineer at Rightworks, architecting and automating application lifecycle management to serve over 250,000 accountants across several datacenters. My role involves deep technical collaboration with engineering teams from Intuit, Thomson Reuters, and Wolters Kluwer to resolve critical production issues and coordinate major releases.
